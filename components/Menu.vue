@@ -20,11 +20,11 @@
 
           <div class="uk-navbar-right">
             <ul class="uk-navbar-nav">
-                <NLink class="menulink nav-item nav-link" to="/user/login"><li>
+                <NLink class="menulink nav-item nav-link" to="/users/login"><li>
                   <i class="fas fa-sign-in-alt" style="padding-right: 5px;"></i
                   >เข้าสู่ระบบ</li>
                 </NLink>
-                <NLink class="menulink nav-item nav-link" to="/user/register"><li>
+                <NLink class="menulink nav-item nav-link" to="/users/register"><li>
                   <i class="fas fa-user-plus" style="padding-right: 5px;"></i
                   >สมัครสมาชิก</li>
                 </NLink>
@@ -65,6 +65,11 @@ export default {
           icon: 'fas fa-image',
           title: 'รูปภาพ',
           to: '/albums'
+        },
+        {
+          icon: 'fas fa-gamepad',
+          title: 'เกม',
+          to: '/games'
         },
         {
           icon: 'fas fa-pen-alt',

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div><Menu /></div>
-    <div class="uk-container uk-container-xlarge"><nuxt /></div>
+    <div class="uk-container uk-container-xlarge"><div class="uk-bg"></div><nuxt /></div>
   </div>
 </template>
 <script>

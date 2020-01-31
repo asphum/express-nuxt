@@ -1,6 +1,6 @@
 <template>
   <div class="uk-padding-small">
-    <div class="uk-bg"></div>
+    
     <div class="bg-head"><h3>#เข้าสู่ระบบ</h3></div>
     <div class="bg-content">
       <form class="uk-form-stacked uk-text-center">
