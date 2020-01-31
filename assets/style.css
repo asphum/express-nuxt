@@ -1,0 +1,96 @@
+html {
+  font-family: 'Sarabun' sans-serif !important;
+  font-size: 16px;
+  word-spacing: 1px;
+  background-color: aliceblue;
+}
+body {
+  
+  
+}
+.uk-bg{
+  background: repeating-linear-gradient(135deg, #212529, #212529 5px, rgba(0,0,0,0) 5px, rgba(0,0,0,0) 10px);
+  position: absolute;
+  opacity: .0125;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+้h1, h2, h3, h4, h5, h6 {
+  padding: 0;margin: 0;font-weight: 700;
+}
+ .uk-input {
+  background-color: #FFF !important;
+  color: #444;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+  padding: 5px !important;
+  border-radius: 4px !important;
+  border: none !important;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+.uk-container {
+  padding: 0;
+  
+}
+.uk-button-1waan {
+  background-color: #eb622c;
+  border-radius: 6px;
+  color: #fff !important;
+  border: 1px solid #fff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  display: inline-block;
+  transition: 0.3s;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+  z-index: 100;
+}
+.uk-button-1waan:hover {
+  background-color: #323232;
+}
+.uk-button-add {
+  background-color: #00c58e;
+  border-radius: 6px;
+  color: #fff !important;
+  border: 1px solid #fff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  display: inline-block;
+  transition: 0.3s;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+  z-index: 100;
+}
+.uk-button-add:hover {
+  background-color: #323232;
+}
+
+.bg-head {
+  background-color: #CCC;
+  color: #000;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 4px 4px 0 0;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.1);
+  
+}
+.bg-content {
+  background-color: #edf2f7;
+  color: #000;
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  
+}
+.uk-form-icon {
+  color: #444;
+}
